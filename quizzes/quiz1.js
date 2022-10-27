@@ -1,6 +1,7 @@
 const quizData = [
     {
-        question: "What programming language is used in web browsers?" ,
+        question: " When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are: <br>
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\] " ,
         a: "Java",
         b: "C",
         c: "Python",
