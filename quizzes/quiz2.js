@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "What is $frac{1}{2} + frac{1}{3}$? ",
+        question: "What is $ \frac{1}{2} + \frac{1}{3}$ ?",
         a: "$frac{1}{5}$",
         b: "$frac{2}{5}$",
         c: "$frac{2}{6}$",
