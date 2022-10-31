@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "When stuff don't work, it's probably something silly!",
+        question: " $y = mx + b$ ",
         a: "Java",
         b: "C",
         c: "Python",
