@@ -1,14 +1,3 @@
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-
-
-
 const quizData = [
     {
         question: "When stuff don't work, it's probably something silly!",
