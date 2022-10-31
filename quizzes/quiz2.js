@@ -11,8 +11,7 @@ MathJax = {
 
 const quizData = [
     {
-        question: "When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are: <br>
-  $ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$",
+        question: "When stuff don't work, it's probably something silly!",
         a: "Java",
         b: "C",
         c: "Python",
