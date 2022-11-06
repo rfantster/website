@@ -1,5 +1,4 @@
-            <script type="text/javascript">
-                function removeClass(selector, cls){
+function removeClass(selector, cls){
     var doms = document.querySelectorAll(selector);
     for(var i = 0; i < doms.length; i++){
         doms[i].classList.remove(cls);
@@ -527,7 +526,7 @@ function mini(){
 }*/
 
 
-            </script>
+
         
     
 
@@ -760,15 +759,7 @@ function mini(){
             on("click", ".minus, .plus", handlePoints);
         });
 
-    </script>
 
-
-    <style type="text/css">
-    
-
-    </style>
-
-    <script>
 
     function clearLocalStorage(){
         for(var i = localStorage.length-1; i >= 0 ; i--){
@@ -1168,4 +1159,4 @@ function mini(){
         }
         document.getElementById("team-chooser").focus();
     }
-    </script>
+    
