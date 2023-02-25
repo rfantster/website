@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Random Linear Equations</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js" integrity="sha512-Xs7eTtT/hymcT33MpkOiv8tMSshwjKZ+faJZEHX0q3pIaWb4mgNb4teg4epOKv2H8Iw+ZrVblF6z5U6HJ9jh1A==" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <h1>Random Linear Equations</h1>
+    <div id="equation-container"></div>
+  </body>
+</html>
